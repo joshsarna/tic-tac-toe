@@ -1,7 +1,7 @@
 New things to implement:
 
 1) Fix syntax highlighting to work with React
-2) When no one wins, display a message about the result being a draw
+---2) When no one wins, display a message about the result being a draw
 3) When someone wins, highlight the three squares that caused the win
 4) Rewrite Board to use two loops to make the squares instead of hardcoding them
 5) Bold the currently selected move in the move list
